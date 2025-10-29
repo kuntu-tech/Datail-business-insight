@@ -1,0 +1,1 @@
+// React Router removed after migration to Next.js

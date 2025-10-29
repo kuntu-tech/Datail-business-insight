@@ -1,0 +1,1 @@
+// Migrated to Next.js App Router. Entry not used.
