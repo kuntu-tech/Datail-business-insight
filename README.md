@@ -1,3 +1,5 @@
+# Datail-business-insight
+
 ## Business Insight - Next.js App Router
 
 - Node.js 22 + Next.js 15 (App Router) + React 19
